@@ -21,6 +21,8 @@ installation reussit avec:
 
 git clone origine =>  git@github.com:w3bdev5/testwebdev.git
 
+pas encore teste
+
 fonctionne  avec :
 
 git clone origine =>  git@github.com_team:w3bdev5/testwebdev.git
