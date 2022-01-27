@@ -16,3 +16,14 @@ git push -u origin main
 git remote add origin git@github.com:w3bdev5/testwebdev.git
 git branch -M main
 git push -u origin main
+
+installation reussit avec:
+
+git clone origine =>  git@github.com:w3bdev5/testwebdev.git
+
+fonctionne  avec :
+
+git clone origine =>  git@github.com_team:w3bdev5/testwebdev.git
+
+
+
