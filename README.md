@@ -19,13 +19,20 @@ git push -u origin main
 
 installation reussit avec:
 
-git clone origine =>  git@github.com:w3bdev5/testwebdev.git
+ # erreur# git clone origine =>  git@github.com:w3bdev5/testwebdev.git
+ la cle ssh contien lidentite et la premiere clef rsa a le host github.com !
 
-pas encore testé
+
 
 fonctionne  avec :
 
 git clone origine =>  git@github.com_team:w3bdev5/testwebdev.git
+
+la cle ssh contien l identite de la deuxieme clef rsa qui se trouve sur le host  github.com_team
+
+info le fichier config se trouve dans le rep .ssh
+le fichier gitconfig  contien des identifiants  mais ne changera rien au autorisation 
+(pour le moment je pense que c'est peut etre utile pour pouvoir creer a partir de rien et non cloner depuis github )
 
 
 
