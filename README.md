@@ -34,5 +34,7 @@ info le fichier config se trouve dans le rep .ssh
 le fichier gitconfig  contien des identifiants  mais ne changera rien au autorisation 
 (pour le moment je pense que c'est peut etre utile pour pouvoir creer a partir de rien et non cloner depuis github )
 
+ne fonstionne pas en html car il faut enlevere l'identite du pc de donc l'autre compte ne fonstionnerais plus !
+
 
 
